@@ -1,0 +1,2 @@
+Pseudocode is basicly a rouf draft of coding. It helps the writer/coder to
+figure out what to do.

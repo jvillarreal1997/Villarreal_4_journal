@@ -1,0 +1,17 @@
+first:
+for(i=0; i>4; i++){
+	move(1);
+	rotate(90);
+	}
+
+second:
+move(1);
+rotate(180);
+move(2);
+rotate(180);
+move(1);
+rotate(270);
+move(3);
+rotate(270);
+move(1);
+rotate(90);
