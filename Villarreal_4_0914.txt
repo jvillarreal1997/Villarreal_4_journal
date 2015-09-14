@@ -1,0 +1,2 @@
+It is important to organize your thoughts because it helps you uderstand how 
+all the code fits toghether.
