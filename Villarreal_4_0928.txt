@@ -1,0 +1,3 @@
+I can count in java by using a number generator and printing the outcome.
+By using % and a number.
+I have no idea on that account.
