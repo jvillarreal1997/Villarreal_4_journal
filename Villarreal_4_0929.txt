@@ -1,0 +1,4 @@
+ Methods are a pattern or way of doing something.
+They are good for finding and making code.
+By finding what is divisible by a prime number, if it is not divisible, add it
+to the 'strainer'.
