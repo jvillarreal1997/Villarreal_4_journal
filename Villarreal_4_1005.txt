@@ -1,0 +1,3 @@
+Code comments are lines of code that do nothing in the system but are used to
+give insight of what the code is for or how it works.
+
