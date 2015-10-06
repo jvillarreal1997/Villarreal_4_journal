@@ -1,0 +1,4 @@
+Methods are things that do stuff in codding.
+Classes are groups of code.
+An instance is a true of false senario.
+They are groups of methods that do stuff.
