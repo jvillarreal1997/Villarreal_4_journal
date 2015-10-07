@@ -1,0 +1,3 @@
+A java class is a thing in code.
+It can do stuff.
+A thing that do stuffs.
